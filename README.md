@@ -15,3 +15,8 @@ line 35
 
 
 /includes/config.php
+
+
+
+
+wildcard Document Root should be "public_html/user"
